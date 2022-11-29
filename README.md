@@ -1,2 +1,2 @@
-# handsomemodSDK
-handsomemodSDK and toolchain in release
+# HandsomeModSDK
+HandsomeModSDK and toolchain in release
